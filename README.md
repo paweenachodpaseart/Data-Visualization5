@@ -33,7 +33,7 @@ Pizza Sales
 
 Here are images showcasing the Dashboard:
 
-<img src="https://github.com/paweenachodpaseart/Data-Visualization4/blob/main/Supermarket%20Dashboard.png?raw=true" width="700" />
+<img src="https://github.com/paweenachodpaseart/Data-Visualization5/blob/main/Pizza%20Sales%20Dashboard.png?raw=true" width="700" />
 
-[See more](https://github.com/paweenachodpaseart/Data-Visualization4/blob/main/Supermarket_Sale.twb)
+[See more](https://github.com/paweenachodpaseart/Data-Visualization5/raw/refs/heads/main/Pizza%20Sales%20Dashboard.pbix)
 ### 🛠️ Tool: Tableau
